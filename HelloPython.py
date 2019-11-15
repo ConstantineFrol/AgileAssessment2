@@ -1,4 +1,4 @@
-#!/bin/python
+#!/bin/bash
 
 import datetime
 import socket
