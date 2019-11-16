@@ -3,12 +3,12 @@
 
 version: 2
 jobs:
-  build:
-    docker:
-      - image: circleci/python:3.6.1
+	build:
+     
+    	working_directory: ~/repo
 
-    working_directory: ~/repo
-
+  	docker:
+      - image: circleci/python:3.6.4  # primary container for the build job
       - run:
           name: run tests
           command: |
