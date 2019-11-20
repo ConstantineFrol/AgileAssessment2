@@ -5,22 +5,22 @@ Step Three ~ 3 Wrong input, wait 1 min and repeat
 Step Four ~~ Or Log in Or Register(Can't reg. more than once)
 
 === 2. Clock in ==========================
-Step One
-Step Two
-Step Three
-Step Four
+Step One ~~~ Show Time
+Step Two ~~~ Split working Day into parts(before lunch and after)
+Step Three ~ Verify Late or not Late
+Step Four ~~ Display Working hours & Owertime
 
 === 1. Calculation ==========================
-Step One
-Step Two
-Step Three
-Step Four
+Step One ~~~ Verify user exists or not
+Step Two ~~~ Count total working hours
+Step Three ~ Count Owertime
+Step Four ~~ Count salary
 
 === 1. Write into file ==========================
-Step One
-Step Two
-Step Three
-Step Four
+Step One ~~~ Create file
+Step Two ~~~ Write current time
+Step Three ~ Create 2 files with time in and out
+Step Four ~~ full data in each file coresponding to employee/er
 
 
 Menu:
