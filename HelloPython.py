@@ -7,6 +7,7 @@ import os
 
 statTime = 8
 now = datetime.datetime.now()
+# Did i go to Jenkins
 
 print
 print ("Current date and time using str method of datetime object:")
