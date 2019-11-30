@@ -29,7 +29,7 @@ print (now.strftime("%Y-%m-%d %H:%M"))
 
 # Create file and write data
 
-filepath = 'C:/ClockingMachine/shifts.txt'
+filepath = '/Users/gog/Documents/GitHub/AgileAssessment2/ClockingMachine/shifts.txt'
 
 mode = 'a' if os.path.exists(filepath) else 'w'
 with open(filepath, mode) as f:
