@@ -8,7 +8,7 @@ pipeline {
                 }
             }
             steps {
-                sh 'python -m py_compile sources/HelloPython.py sources/HelloPython.py'
+                sh 'python -m py_compile sources/HelloPython.py sources/AgileAssessment2.py'
             }
         }
     }
