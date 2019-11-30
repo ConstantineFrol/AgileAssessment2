@@ -8,7 +8,7 @@ pipeline {
                 }
             }
             steps {
-                sh 'python -m py_compile sources/Users/gog/Documents/GitHub/AgileAssessment2/HelloPython.py sources/calc.py'
+                sh 'python -m py_compile sources/HelloPython.py sources/calc.py'
             }
         }
     }
