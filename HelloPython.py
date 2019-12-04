@@ -7,7 +7,7 @@ import os
 # Trigger a remote build
 statTime = 8
 now = datetime.datetime.now()
-# Did i go to Jenkins
+# Did i go to Jenkins f
 
 print
 print ("Current date and time using str method of datetime object:")
