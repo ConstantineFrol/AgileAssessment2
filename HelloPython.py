@@ -4,7 +4,7 @@ import datetime
 import re
 import sys
 import os
-
+# Trigger a remote build
 statTime = 8
 now = datetime.datetime.now()
 # Did i go to Jenkins
