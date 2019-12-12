@@ -42,11 +42,11 @@ def registrationProcess():
     complete = False
     while not complete:
         username = input("Please type in username\n")
-        if username not in user:
+     username not in user:
             password = input(Please type in password\n")
         else:
             print("! User with such name Already Exist !\n")
-            continue
+
         conf_username = input("Repeat the username?\n")
         conf_password = input("Repeat the password?\n")
 
