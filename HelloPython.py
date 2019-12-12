@@ -32,7 +32,7 @@ def displayMenu():
             print("\n Goodbye")
             ans = False
         else:
-            print("\n Not Valid Choice Try again")
+            print("\n Not Valid Choice Try again"
 
 
 # End Menu
@@ -43,7 +43,7 @@ def registrationProcess():
     while not complete:
         username = input("Please type in username\n")
         if username not in user:
-            password = input("Please type in password\n")
+            password = input(Please type in password\n")
         else:
             print("! User with such name Already Exist !\n")
             continue
