@@ -110,7 +110,5 @@ def storeDataProcess(var):
 displayMenu()
 
 print("The End")
-print("The End")
-
 
 
